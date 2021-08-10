@@ -1,5 +1,4 @@
-# Hashing
-Progressive Overflow Technique
+# Hashing(Progressive Overflow)
 Software - QT creator.
 Language - C++ .
 This is a simple Student information management system. 
