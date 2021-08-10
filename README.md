@@ -1,7 +1,7 @@
 # Hashing
 Progressive Overflow Technique
-Software - QT creator
-Language - C++
+Software - QT creator.
+Language - C++ .
 This is a simple Student information management system. 
 It utilizes file structure and shows effective implementation of class and object of the programming language. 
 Student information management system provides the capability to manage student data very effectively. 
